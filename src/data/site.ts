@@ -2,11 +2,11 @@ export const SITE = {
   name: "Bunny Printing Studio",
   tagline: "Premium Packaging for Brands That Mean Business.",
   domain: "bunnyprintingstudio.com",
-  phone: "+92 325 2822282",
+  phone: "+92 325 5822282",
   email: "bunnyprintingstudio@gmail.com",
   address: "Gulberg, Lahore, Pakistan",
   hours: "Monday – Saturday, 10:00 AM – 6:00 PM PKT",
-  whatsapp: "https://wa.me/923252822282",
+  whatsapp: "https://wa.me/923255822282",
   instagram: "https://www.instagram.com/bunnyprintingstudio/",
   facebook: "https://www.facebook.com/bunnyprintingstudio",
 };
